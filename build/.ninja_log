@@ -1,0 +1,8 @@
+# ninja log v7
+5	1590	8132042806767149	CMakeFiles/mini_daw.dir/engine/main.cpp.obj	8549cbf62a3f5de0
+13	1604	8132042806849073	_deps/webview-build/core/CMakeFiles/webview_core_shared.dir/src/webview.cc.obj	94d2372296167a8b
+21	1650	8132042806920546	_deps/webview-build/core/CMakeFiles/webview_core_static.dir/src/webview.cc.obj	e54f3c42c7a1ce19
+1650	1757	8132042823217652	_deps/webview-build/core/webview_staticd.lib	2e15d7aa52ac3bf0
+1592	2049	8132042822632614	mini_daw.exe	5fa8fbcfadc738c3
+1605	2057	8132042826841320	_deps/webview-build/core/webviewd.dll	67c545c15cad33a1
+1605	2057	8132042826841320	_deps/webview-build/core/webviewd.lib	67c545c15cad33a1

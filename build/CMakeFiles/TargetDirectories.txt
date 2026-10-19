@@ -1,0 +1,11 @@
+C:/Users/Evn99/OneDrive/Desktop/Coding Projects/mini-daw/build/CMakeFiles/mini_daw.dir
+C:/Users/Evn99/OneDrive/Desktop/Coding Projects/mini-daw/build/CMakeFiles/edit_cache.dir
+C:/Users/Evn99/OneDrive/Desktop/Coding Projects/mini-daw/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Evn99/OneDrive/Desktop/Coding Projects/mini-daw/build/_deps/webview-build/CMakeFiles/edit_cache.dir
+C:/Users/Evn99/OneDrive/Desktop/Coding Projects/mini-daw/build/_deps/webview-build/CMakeFiles/rebuild_cache.dir
+C:/Users/Evn99/OneDrive/Desktop/Coding Projects/mini-daw/build/_deps/webview-build/compatibility/CMakeFiles/edit_cache.dir
+C:/Users/Evn99/OneDrive/Desktop/Coding Projects/mini-daw/build/_deps/webview-build/compatibility/CMakeFiles/rebuild_cache.dir
+C:/Users/Evn99/OneDrive/Desktop/Coding Projects/mini-daw/build/_deps/webview-build/core/CMakeFiles/webview_core_shared.dir
+C:/Users/Evn99/OneDrive/Desktop/Coding Projects/mini-daw/build/_deps/webview-build/core/CMakeFiles/webview_core_static.dir
+C:/Users/Evn99/OneDrive/Desktop/Coding Projects/mini-daw/build/_deps/webview-build/core/CMakeFiles/edit_cache.dir
+C:/Users/Evn99/OneDrive/Desktop/Coding Projects/mini-daw/build/_deps/webview-build/core/CMakeFiles/rebuild_cache.dir

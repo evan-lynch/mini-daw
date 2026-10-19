@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+2 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/Evn99/OneDrive/Desktop/Coding Projects/mini-daw/build/_deps/webview-build/core/CMakeFiles/webview_core_shared.dir/embed.manifest"
