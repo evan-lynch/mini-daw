@@ -2,7 +2,7 @@
 cmake_minimum_required(VERSION 3.20)
 
 # Says the name of the project and the programming languages it uses
-project(mini_daw LANGUAGES CXX)
+project(mini_daw LANGUAGES C CXX)
 
 # Sets the C++ version to version 17 and makes it required to build this 
 # project, so that the compiler will throw an error if something doesn't
@@ -20,9 +20,13 @@ FetchContent_Declare(
 )
 FetchContent_MakeAvailable(webview)
 
+
 # Like a Makefile, says that an executable mini_daw will be made from the
 # source file engine/main.cpp
-add_executable(mini_daw engine/main.cpp)
+add_executable(mini_daw engine/main.cpp third_party/miniaudio/miniaudio.c)
 
 # Links the webview library to the mini_daw executable
 target_link_libraries(mini_daw PRIVATE webview::core)
+
+# So include works for third_party stuff like miniaudio
+target_include_directories(mini_daw PRIVATE third_party)
